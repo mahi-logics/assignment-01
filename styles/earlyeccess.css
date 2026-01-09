@@ -2,11 +2,12 @@
   background-color: white;
   position: relative;
   top: -180px;
+  height: 70vh;
 }
 
 #early-access .earlyeccess-container{
   width: 85%;
-  max-width: 1360;
+  max-width: 1360px;
   margin: 0 auto;
   height: 384px;
   border: 1px solid transparent;
@@ -22,7 +23,6 @@
 .early-access-content h2{
   font-size: 40px;
   font-weight: 700;
-  
 }
 
 .early-access-content p{
