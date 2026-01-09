@@ -35,6 +35,10 @@ body{
   color: black;
 }
 
+#navbar ul a:hover{
+  color: #30B868;
+}
+
 .btn{
   background-color:#30B868;
   color: white;
@@ -46,8 +50,8 @@ body{
 }
 
 .btn:hover{
-  background-color: antiquewhite;
-  color: #30B868;
+  background-color: black;
+  color: white;
 }
 
 /* banner */
